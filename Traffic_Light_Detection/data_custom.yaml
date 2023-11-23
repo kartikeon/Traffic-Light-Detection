@@ -1,0 +1,7 @@
+path: C:\Xtream Drive\Projects\Pycharm Projects\Traffic_Light_Detection\data
+train: train\images
+val: val\images
+
+nc: 2
+names: ['green', 'red']
+# names: ['go', 'stop']

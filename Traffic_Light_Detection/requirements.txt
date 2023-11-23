@@ -1,0 +1,12 @@
+tensorflow~=2.15.0
+opencv-python
+scikit-learn
+numpy~=1.26.2
+
+torch=2.1.0+cu121
+ultralytics~=8.0.208
+wheel
+pillow
+
+matplotlib
+torch~=2.1.1+cu121
