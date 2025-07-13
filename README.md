@@ -4,7 +4,7 @@ A deep learning-based traffic light detection system using **YOLOv8**. This proj
 
 ---
 
-![Demo](Traffic_Light_Detection\traffsign.gif)
+![Demo](traffsign.gif)
 
 ## 📌 Features
 
